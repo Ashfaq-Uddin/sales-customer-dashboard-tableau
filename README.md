@@ -4,14 +4,25 @@ Building two dashboards using Tableau to help stakeholders, including sales mana
 
 # 📊 Sales & Customer Dashboard (Tableau)
 
-This Tableau dashboard analyzes year-over-year sales performance and customer trends.
+This Tableau project visualizes sales performance and customer trends through interactive dashboards, built to support executive and sales team decision-making.
 
-✅ Metrics included:
-- CY vs PY Sales
-- CY vs PY Customers
-- Weekly profit trends
-- Top 10 customers
+## ✅ Project Highlights
 
-🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/ashfaq.ahmed5098/viz/SalesCustomerDashboard_17499708226800/SalesDashboard)**
+- Designed based on a clear set of business requirements
+- Created **dashboard mockups** prior to development to align with end-user needs
+- Implemented multiple KPI views:
+  - Year-over-Year comparison for Sales, Profit, and Quantity
+  - Weekly performance trends
+  - Top customer and product subcategory insights
+  - Customer engagement metrics
 
-![Dashboard Screenshot](Sales Dashboard.png)
+## 🎯 Process
+
+I followed a structured approach:
+1. **Requirements Review** – outlined KPIs and design expectations
+2. **Mockup Design** – created layout drafts to guide development
+3. **Dashboard Development** – built dynamic Tableau dashboards with filters and interactivity
+
+## 🔗 View the Live Dashboard
+
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/ashfaq.ahmed5098/viz/SalesCustomerDashboard_17499708226800/SalesDashboard)
